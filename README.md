@@ -13,3 +13,6 @@ The models include:
 - Lasso
 - Random Forests
 - Deep Neural Network
+
+For the regression task, run master.R in sao_francisco folder.
+For the classification task, run master.R in digits folder.
